@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kolacs aka. Jonathan Bokvad!
+- 👋 Hi, I’m Jonathan Bokvad!
 - 👀 I’m interested in programming, the stock market, reading and going to the gym.
 - 🌱 I’m currently learning more WPF and ASP.NET in C#.
 - 💞️ I’m looking to collaborate on cool projects or getting offers for employement!
