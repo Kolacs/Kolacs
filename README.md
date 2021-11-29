@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jonathan Bokvad!
+- 👋 Hi, I’m Jonathan Bokvad and currently studying IT.
 - 👀 I’m interested in programming, the stock market, reading and going to the gym.
 - 🌱 I’m currently learning ASP.NET.
 - :raising_hand: I’m currently looking for employement!
